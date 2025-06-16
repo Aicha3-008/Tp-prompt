@@ -1,4 +1,6 @@
 # 🤖💻 TP - Ingénierie de Prompt appliquée à la génération de code avec l'IA
+voici mon chat avec le Ai : 
+https://chatgpt.com/share/684ce49a-0b0c-800b-9973-ab69ebcca3f4
 
 <div align="center">
 
